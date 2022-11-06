@@ -1,0 +1,71 @@
+.{
+   
+}
+
+body {
+    background-color: 111;
+    margin: 0;
+    padding:0;
+    height: 100vh;
+}
+
+div {
+    
+
+}
+
+.navbar-div {
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar-ul {
+    
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-li {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    height: 10%;
+    width: 100vh;
+    padding: 25px;
+    margin: 5px;
+    font-size: 3vh;
+}
+
+.navbar-li:hover {
+    background-color: rgb(71, 71, 71);
+    transition: .3s ease-in-out;
+    transition-delai: .3s;
+    border-radius: 8px;
+}
+
+.a-navbar {
+    text-decoration:none;
+    color: white;
+}
+.content-div {
+    align-items:center;
+    b
+}
+
+#biodata {
+    background-color:red ;
+    width: 10 vh;
+    height: 10vh;
+    
+}
+
+.content-ul {
+    display:flex;
+    
+}
+
+.ul-content {
+    color: white;
+}
